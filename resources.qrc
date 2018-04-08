@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="CodeSearch.png">./resources/images/CodeSearch.png</file>
+        <file alias="register.png">./resources/images/register.png</file>
+    </qresource>
+</RCC>

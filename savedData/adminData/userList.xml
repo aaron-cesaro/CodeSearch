@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User-List>
+    <userInfo>
+        <Name>newUser</Name>
+        <Password>123456</Password>
+        <Email>newUser@gmail.com</Email>
+        <Uploaded-Projects>10</Uploaded-Projects>
+        <Account-Type>FreeUser</Account-Type>
+    </userInfo>
+    <userInfo>
+        <Name>newPremiumUser</Name>
+        <Password>123456</Password>
+        <Email>newPremiumUser@gmail.com</Email>
+        <Uploaded-Projects>11</Uploaded-Projects>
+        <Account-Type>PremiumUser</Account-Type>
+    </userInfo>
+</User-List>
